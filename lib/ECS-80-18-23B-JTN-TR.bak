@@ -29,7 +29,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "DuoFootprints:XTAL_ECS-80-18-23B-JTN-TR"
+		(property "Footprint" "ECS-80-18-23B-JTN-TR:XTAL_ECS-80-18-23B-JTN-TR"
 			(at 0 0 0)
 			(effects
 				(font
